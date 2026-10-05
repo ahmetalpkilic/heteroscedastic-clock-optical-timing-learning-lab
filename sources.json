@@ -1,0 +1,89 @@
+{
+  "reviewed_at": "2026-10-05T19:28:33.159060+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "url": "https://github.com/brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "activity": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md",
+      "license_file": "licenses/brandondube_prysm.txt"
+    },
+    {
+      "repository": "scipy/scipy",
+      "url": "https://github.com/scipy/scipy",
+      "commit": "c251b02724d0e20e298172e0df403c1dae4f6642",
+      "commit_date": "2026-10-05T09:28:45Z",
+      "activity": "DOC: fft tutorial: fix index typos in DFT formulas",
+      "pushed_at": "2026-10-05T09:28:45Z",
+      "archived": false,
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/c251b02724d0e20e298172e0df403c1dae4f6642/LICENSE.txt",
+      "license_file": "licenses/scipy_scipy.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "url": "https://github.com/numpy/numpy",
+      "commit": "a47d2ca69c204816309b6244216e90fc3c0a8808",
+      "commit_date": "2026-10-05T19:16:33Z",
+      "activity": "TYP: ``strings.translate``: fix types of ``table`` and ``deletechars`` (#32887)",
+      "pushed_at": "2026-10-05T19:16:34Z",
+      "archived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_url": "https://raw.githubusercontent.com/numpy/numpy/a47d2ca69c204816309b6244216e90fc3c0a8808/LICENSE.txt",
+      "license_file": "licenses/numpy_numpy.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "url": "https://github.com/matplotlib/matplotlib",
+      "commit": "0aeef9dd966b294245555ccd7aac1ec282c49f09",
+      "commit_date": "2026-10-05T15:23:51Z",
+      "activity": "Merge pull request #32435 from timhoffm/doc-contour-rc",
+      "pushed_at": "2026-10-05T15:23:52Z",
+      "archived": false,
+      "license": null,
+      "license_url": "https://raw.githubusercontent.com/matplotlib/matplotlib/0aeef9dd966b294245555ccd7aac1ec282c49f09/LICENSE/LICENSE",
+      "license_file": "licenses/matplotlib_matplotlib.txt"
+    },
+    {
+      "repository": "ahmetalpkilic/correlated-clock-optical-timing-learning-lab",
+      "url": "https://github.com/ahmetalpkilic/correlated-clock-optical-timing-learning-lab",
+      "commit": "e5550bed0313c3f3bebe8cccb8ad7369e6a811af",
+      "commit_date": "2026-10-04T21:17:08Z",
+      "activity": "Add correlated-clock covariance and optical camera timing lesson",
+      "pushed_at": "2026-10-04T21:17:22Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_url": "https://raw.githubusercontent.com/ahmetalpkilic/correlated-clock-optical-timing-learning-lab/e5550bed0313c3f3bebe8cccb8ad7369e6a811af/LICENSE",
+      "license_file": "licenses/ahmetalpkilic_correlated-clock-optical-timing-learning-lab.txt"
+    }
+  ]
+}
